@@ -6,4 +6,4 @@
 Antes de começar, você precisa ter o [Node.js](https://nodejs.org) instalado na sua máquina. Recomenda-se a versão 14 ou superior.
 
 
-Para a execução: npm install
+Para a execução: npm install.
